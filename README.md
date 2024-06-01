@@ -1,4 +1,4 @@
-![logo](https://github.com/Subha5-star/subhadeep/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/Subha5-star/Subha5-star/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Subhadeep Bhattacharjee</h1>
 <h3 align="center">I am a 3rd Year CSE Student at ITER,SOA University. I specialize in WordPress, HTML, CSS, Webflow, Figma, Canva, JS, Zapier and Prompt Engineering. Passionate about solving real-world problems through innovative projects and AI technologies. Built 4+ impactful projects. Motivated by the satisfaction of creating solutions. Active learner exploring cutting-edge AI advancements.</h3>
