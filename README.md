@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **subhadeepbhattacharjee.02092@gmail.com**
 
-- ⚡ Fun fact **I have good sense of humor 😂**
+- ⚡ Fun fact -> **I have good sense of humor 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
